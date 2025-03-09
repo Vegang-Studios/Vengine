@@ -1,0 +1,14 @@
+{
+    "main":[{
+        "projectName":"clicker",
+        "publicName":"Clicker"
+    }],
+    "gameInfos":[{
+        "title":"Clicker",
+        "version":"1.0.0"
+    }],
+    "engineInfos":[{
+        "version":"1.0.0",
+        "stableVersion":true
+    }]
+}
