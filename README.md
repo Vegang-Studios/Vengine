@@ -3,7 +3,7 @@ Le moteur graphique utilisé pour nos jeux. Développé par Végang-Studios, ce 
 
 # Fonctionnalités :
 ### Version 1.0, affichage *2D simple* :
-- Boutons (avec images et actions)
+- Boutons personalisés
 - Images aux choix
 - Textes aux choix
 
